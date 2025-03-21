@@ -2,7 +2,7 @@
 Overview of Seeed Studio's SenseCraft AI Tool 
 
 
-<img src="/Images/senseCraft-1-thmb.jpg" height="200"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="/Images/senseCraft-2-thmb.jpg" height="200" > 
+<img src="/Images/senseCraft-1-thmb.jpg" height="200"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="/Images/senseCraft-2-thmb.png" height="200" > 
   
 **SenseCraft** is a series of software services developed by Seeed Studio to provide users with faster and simpler software services and applications. And **SenseCraft** AI is one of the product among them.
 
