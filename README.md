@@ -55,7 +55,7 @@ This tutorial is about How to get started with SenseCraft AI platform/tool. We'v
 -------------------------------------------------------------------------------------------------------
 📒 **Important Links**  
  
-🌐 SenseCraft - 🔗 https://sensecraft.seeed.cc/ 
+🌐 SenseCraft - 🔗 https://sensecraft.seeed.cc/   
 📙 SenseCraft AI Overview Wiki 🔗 https://wiki.seeedstudio.com/sensecraft_ai_overview/   
 ⚙️ SenseCraft AI tool 🔗 https://sensecraft.seeed.cc/ai/#/model
 
