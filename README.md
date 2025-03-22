@@ -44,9 +44,11 @@ This tutorial is about How to get started with SenseCraft AI platform/tool. We'v
 
 📕 **YouTube Video Links**  
 
-- This tutorial of Overview of Seeed Studio's SenseCraft AI Tool will be divided in 3 parts
+- This tutorial of Overview of Seeed Studio's SenseCraft AI Tool will be divided in 4 parts
 
-▶️  [Tutorial] Getting Started SenseCraft AI Tool  - 🔗  https://youtu.be/ 
+▶️  [Tutorial] Getting Started with SenseCraft AI - I - 🔗  https://youtu.be/   
+
+▶️  [Tutorial] Getting Started with SenseCraft AI - II - 🔗  https://youtu.be/   
 
 ▶️  [Tutorial] How to Train your custom vision AI model using SenseCraft AI Tool - 🔗  https://youtu.be/     
   
