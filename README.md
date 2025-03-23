@@ -37,8 +37,8 @@ This tutorial is about How to get started with SenseCraft AI platform/tool. We'v
 - No Software needed, you can use Google Chrome Browser or any other web browser
   
 **Hardware**
-- Grove Vision AI V2  
-- Xiao ESP32S3 Sense  
+- [Grove Vision AI V2](https://wiki.seeedstudio.com/grove_vision_ai_v2/)  
+- [Xiao ESP32S3 Sense](https://wiki.seeedstudio.com/xiao_esp32s3_getting_started/)
 
 ------------------------------------------------------------------------------------------------------
 
