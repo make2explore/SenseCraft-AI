@@ -48,7 +48,7 @@ This tutorial is about How to get started with SenseCraft AI platform/tool. We'v
 
 ▶️  [Tutorial] Getting Started with SenseCraft AI - I - 🔗  https://youtu.be/Q-nVbmbQi5s  
 
-▶️  [Tutorial] Getting Started with SenseCraft AI - II - 🔗  https://youtu.be/   
+▶️  [Tutorial] Getting Started with SenseCraft AI - II - 🔗  https://youtu.be/zC39uoNr7Ug   
 
 ▶️  [Tutorial] How to Train your custom vision AI model using SenseCraft AI Tool - 🔗  https://youtu.be/     
   
