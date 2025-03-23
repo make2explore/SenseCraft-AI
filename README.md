@@ -6,7 +6,7 @@ Overview of Seeed Studio's SenseCraft AI Tool
   
 **SenseCraft** is a series of software services developed by Seeed Studio to provide users with faster and simpler software services and applications. And **SenseCraft** AI is one of the product among them.
 
-**SenseCraft AI** is developed by Seeed Studio to make AI accessible to everyone. Whether you're an engineer, a hobbyist, or a complete beginner, you can train and deploy AI models directly from your browser – no installation, no configuration.
+**SenseCraft AI** is developed by Seeed Studio to make AI accessible to everyone. Whether you're an engineer, a hobbyist, or a complete beginner, you can train and deploy AI models directly from your browser – no installation, no configuration needed.
 
 - SenseCraft AI empowers users to effortlessly deploy a vast library of publicly available AI models onto their edge devices such as Recomputer (Jetson), XIAO S3, and more, and provides a seamless and user-friendly experience, allowing you to deploy public AI models directly onto your edge devices with just a few clicks.  
   
