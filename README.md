@@ -31,6 +31,7 @@ This tutorial is about How to get started with SenseCraft AI platform/tool. We'v
 - **Grove Vision AI V2** - Pretrained Gesture Detection model Demo
 - **Xiao ESP32S3 Sense** - Pretrained Gesture Detection model Demo
 - **Control Output**
+- **Custom AI Model**  - How to build, train your custom Vision AI Model
 
 
 **Software**
