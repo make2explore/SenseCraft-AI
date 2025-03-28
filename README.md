@@ -28,7 +28,7 @@ This tutorial is about How to get started with SenseCraft AI platform/tool. We'v
 - **Model Training** - Basic Introduction. 
 - **Supported Hardware** - Hardware devices suported by SenseCraft AI tool
 - **How to Deploy Pretained Models** - Test SenseCraft AI tool using Hardware
-- **Grove Vision AI V2** - Gesture Detection model Demo
+- **Grove Vision AI V2** - Pretrained Gesture Detection model Demo
 - **Xiao ESP32S3 Sense** - Gesture Detection model Demo
 - **Control Output**
 
