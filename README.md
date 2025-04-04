@@ -53,7 +53,7 @@ This tutorial is about How to get started with SenseCraft AI platform/tool. We'v
 
 ▶️  [Tutorial] How to Train your custom vision AI model using SenseCraft AI Tool - 🔗  https://youtu.be/uLClO7NByxU      
   
-▶️  [DIY Project] Control Appliances with Hand Gestures - 🔗  https://youtu.be/    
+▶️  [DIY Project] Gesture Controlled Appliances using SenseCraft AI - 🔗  https://youtu.be/CT4_icwU0Yw    
 
 -------------------------------------------------------------------------------------------------------
 📒 **Important Links**  
