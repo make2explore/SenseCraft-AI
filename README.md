@@ -51,7 +51,7 @@ This tutorial is about How to get started with SenseCraft AI platform/tool. We'v
 
 ▶️  [Tutorial] Getting Started with SenseCraft AI - II - 🔗  https://youtu.be/zC39uoNr7Ug   
 
-▶️  [Tutorial] How to Train your custom vision AI model using SenseCraft AI Tool - 🔗  https://youtu.be/     
+▶️  [Tutorial] How to Train your custom vision AI model using SenseCraft AI Tool - 🔗  https://youtu.be/uLClO7NByxU      
   
 ▶️  [DIY Project] Control Appliances with Hand Gestures - 🔗  https://youtu.be/    
 
@@ -60,8 +60,11 @@ This tutorial is about How to get started with SenseCraft AI platform/tool. We'v
  
 🌐 SenseCraft - 🔗 https://sensecraft.seeed.cc/   
 📙 SenseCraft AI Overview Wiki 🔗 https://wiki.seeedstudio.com/sensecraft_ai_overview/   
-⚙️ SenseCraft AI tool 🔗 https://sensecraft.seeed.cc/ai/#/model
-
+⚙️ SenseCraft AI tool 🔗 https://sensecraft.seeed.cc/ai/#/model  
+  
+📘 SSCMA Documentation - 🔗 https://sensecraftma.seeed.cc/
+📗 SSCMA Repo - 🔗 https://github.com/Seeed-Studio/ModelAssistant
+📁 Seeed_Arduino_SSCMA Library  - 🔗 https://github.com/Seeed-Studio/Seeed_Arduino_SSCMA
 
 ------------------------------------------------------------------------------------------------------
 
