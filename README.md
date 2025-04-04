@@ -62,9 +62,9 @@ This tutorial is about How to get started with SenseCraft AI platform/tool. We'v
 📙 SenseCraft AI Overview Wiki 🔗 https://wiki.seeedstudio.com/sensecraft_ai_overview/   
 ⚙️ SenseCraft AI tool 🔗 https://sensecraft.seeed.cc/ai/#/model  
   
-📘 SSCMA Documentation - 🔗 https://sensecraftma.seeed.cc/
-📗 SSCMA Repo - 🔗 https://github.com/Seeed-Studio/ModelAssistant
-📁 Seeed_Arduino_SSCMA Library  - 🔗 https://github.com/Seeed-Studio/Seeed_Arduino_SSCMA
+📘 SSCMA Documentation - 🔗 https://sensecraftma.seeed.cc/  
+📗 SSCMA Repo - 🔗 https://github.com/Seeed-Studio/ModelAssistant  
+📁 Seeed_Arduino_SSCMA Library  - 🔗 https://github.com/Seeed-Studio/Seeed_Arduino_SSCMA  
 
 ------------------------------------------------------------------------------------------------------
 
